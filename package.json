@@ -1,0 +1,19 @@
+{
+  "name": "react-starter",
+  "version": "0.1.0",
+  "description": "React starter",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ximpledev/react-starter.git"
+  },
+  "author": "Jerry Lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ximpledev/react-starter/issues"
+  },
+  "homepage": "https://github.com/ximpledev/react-starter#readme"
+}
