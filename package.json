@@ -12,8 +12,9 @@
   },
   "author": "Jerry Lee",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/ximpledev/react-starter/issues"
-  },
-  "homepage": "https://github.com/ximpledev/react-starter#readme"
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-latest": "^6.24.1",
+    "babel-preset-react": "^6.24.1"
+  }
 }
